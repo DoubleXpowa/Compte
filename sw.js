@@ -1,6 +1,6 @@
 // ─── MonCompte Service Worker ───────────────────────────────────────────────
 // VERSION : à incrémenter à chaque mise à jour pour forcer le rechargement
-const VERSION = '1.0.0';
+const VERSION = '1.0.1';
 const CACHE   = `moncompte-${VERSION}`;
 
 const ASSETS = [
