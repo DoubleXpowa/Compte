@@ -1,6 +1,6 @@
 {
-  "name": "MonCompte",
-  "short_name": "MonCompte",
+  "name": "Mon Compte",
+  "short_name": "Mon Compte",
   "description": "Suivi de compte bancaire personnel",
   "start_url": "./",
   "display": "standalone",
